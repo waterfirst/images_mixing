@@ -12,7 +12,7 @@
 
 A creative tool that combines two images using checkerboard, stripe, and diagonal patterns at the pixel level.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url-here.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://images-mixing.streamlit.app/)
 
 ---
 
